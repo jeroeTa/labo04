@@ -1,3 +1,5 @@
+Jeroen Taverne
+
 (845)base<sub>10</sub> = ()base<sub>zd</sub>
 
 |     |  8  |     |  4  |     |  5  | 
